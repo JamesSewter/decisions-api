@@ -25,7 +25,7 @@ The project has been designed with the Model View Controller (MVC) pattern, and 
 
 A hosted version of this project is [available online here](https://decisions-api-vlyb.onrender.com/api).
 
-The frontend component of this project [can be viewed here](https://github.com/dhiransodha/decisions-fe)
+The frontend component of this project [can be viewed here](https://github.com/JamesSewter/decisions-fe)
 
 **Please be patient when clicking links for live versions, as they can take a minute or two to spin up for the first time!**
 
@@ -35,7 +35,8 @@ _Please note: Your browser may require an extension to format the JSON file to b
 
 These instructions will get a copy of this project running on your local machine for development and testing purposes.
 
-Further documentation on API endpoints, schemas & more can be viewed [in our GitBook](https://app.gitbook.com/o/9FGTwThaMGurW0n6vxZB/s/ijTpUNRfiUUA7V7rmX39/introduction/about)
+Further documentation on API endpoints, schemas & more can be viewed [in our GitBook]
+(https://group-a3.gitbook.io/decisions/api-endpoints/api)
 
 ### ⛏️ Prerequisites <a name = "prerequisites"></a>
 
@@ -53,7 +54,7 @@ This API uses Node.js and MongoDB for database interactions, so please ensure yo
 Open your terminal, navigate to the directory where you'd like to copy this repo, and run the following command:
 
 ```bash
-git clone https://github.com/smlbrd/decisions-api.git
+git clone https://github.com/JamesSewter/decisions-api.git
 ```
 
 ### ⛓️ Installing dependencies <a name = "dependencies"></a>
