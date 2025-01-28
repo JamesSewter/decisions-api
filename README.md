@@ -35,8 +35,7 @@ _Please note: Your browser may require an extension to format the JSON file to b
 
 These instructions will get a copy of this project running on your local machine for development and testing purposes.
 
-Further documentation on API endpoints, schemas & more can be viewed [in our GitBook]
-(https://group-a3.gitbook.io/decisions/api-endpoints/api)
+Further documentation on API endpoints, schemas & more can be viewed [in our GitBook](https://group-a3.gitbook.io/decisions/api-endpoints/api)
 
 ### ⛏️ Prerequisites <a name = "prerequisites"></a>
 
